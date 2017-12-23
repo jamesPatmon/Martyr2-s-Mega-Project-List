@@ -1,3 +1,3 @@
 This repository will be used to track my journey in learning Javascript, and to get acquainted with git and GitHub. I will be using [Martyr2’s Mega Project List](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/).
 
-That is all. :-)
+That is all. ![](https://rlv.zcache.com/cheer_up_yellow_emoji_party_happy_face_symbol_classic_round_sticker-r821c9ad7d35943228f0f0e973050e063_v9wth_8byvr_630.jpg?view_padding=%5B285%2C0%2C285%2C0%5D)
