@@ -30,3 +30,6 @@ function translate(word) {
 var consonant = translate('thanks');
 var vowel = translate('omelet');
 console.log(consonant + '\n' + vowel);
+
+// -> anksthay
+// -> omeletay
