@@ -1,6 +1,6 @@
 function isVowel(letter) {
     var vowels = /[aeiou]/;
-    return vowels.test(char);
+    return vowels.test(letter);
 }
 
 function translate(word) {
